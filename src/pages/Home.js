@@ -7,8 +7,8 @@ const Home = () => {
         <main className='homePage'>
             <h2>Home</h2>
         </main>
-    </Layout>>
-  );
+    </Layout>
+    );
 };
 
 export default Home;

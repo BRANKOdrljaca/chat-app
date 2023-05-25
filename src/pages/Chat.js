@@ -6,7 +6,7 @@ const Chat = () => {
     <Layout>
         <h2>Chat</h2>
     </Layout>
-  )
-}
+  );
+};
 
 export default Chat;
